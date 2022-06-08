@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(212, 188, 188);
+}
+h1{
+font-size: 30px;
+color: teal;
+}
+
+h2{
+color:aquamarine;
+font-size: 20px;
+}
+
+h2{
+color:gold;
+}
+
+.big{
+font-size: 60px;
+}
+
+.uc{
+text-transform: uppercase;
+}
+
+.big.uc{
+color: navy;
+}
+
+h1 span{
+color: violet;
+}
